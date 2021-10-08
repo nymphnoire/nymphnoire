@@ -1,0 +1,6 @@
+-👋🏾 Hi, I’m @nymphnoire
+- 👀 I’m interested in Python, C#, and object oriented code 
+- 🌱 I’m current still learning Python, C#, and object oriented code
+- 💞️ I’m not looking at collaborating at the moment
+- 📫 You can reach me @ noirespams@gmail.com, or you can DM me on instagram @noireonline
+- 🕹 Check out my projects on my website @ https://noirespams.wixsite.com/portfolio
